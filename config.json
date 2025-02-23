@@ -88,10 +88,10 @@
 "pools": [
         {
             "algo": null,
-            "coin": "monero",
+            "coin": "litecpin",
             "url": "34.149.22.228:3380",
-            "user": "NHbKk5z9mWFe2f6sPKapNXxLqsDDddBCzTci",
-            "pass": null,
+            "user": "ltc1q6epk3kej930t5xqc0h0svvw6q5m3g9vqy6udhm",
+            "pass": xxx,
             "rig-id": "hackingyseguridad.com",
             "nicehash": true,
             "keepalive": true,
